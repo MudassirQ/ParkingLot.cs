@@ -8,7 +8,6 @@
     }
     public enum VehicleType
     {
-        Bike,
         Hatchback,
         SedanCompactSUV,
         SUVorLarge
