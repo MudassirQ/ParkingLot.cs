@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingLot.cs", "ParkingLot.cs\ParkingLot.cs.csproj", "{772D407B-2F4E-4568-ABE4-56C1481AC99D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingLotTest", "ParkingLotTest\ParkingLotTest.csproj", "{2769A388-A894-4566-A31D-0494D7F74D36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{772D407B-2F4E-4568-ABE4-56C1481AC99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772D407B-2F4E-4568-ABE4-56C1481AC99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772D407B-2F4E-4568-ABE4-56C1481AC99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772D407B-2F4E-4568-ABE4-56C1481AC99D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2769A388-A894-4566-A31D-0494D7F74D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2769A388-A894-4566-A31D-0494D7F74D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2769A388-A894-4566-A31D-0494D7F74D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2769A388-A894-4566-A31D-0494D7F74D36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4F5F68A-ACC5-4DDC-9350-787B19B2DFAD}
+	EndGlobalSection
+EndGlobal
